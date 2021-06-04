@@ -18,7 +18,6 @@ type Address {
   location: Point
   order: Order @relationship(type: "SHIPS_TO", direction: IN)
 }
-
 type Book {
   isbn: ID!
   title: String
