@@ -1,5 +1,5 @@
 type Hospital {
-  ID: ID! @id
+  name: String
   lastActive: DateTime @timestamp
   XCoordinate: Float
   YCoordinate: Float
