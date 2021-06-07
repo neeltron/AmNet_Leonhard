@@ -35,3 +35,6 @@ npm run start
 
 This will start a local GraphQL API server at `localhost:4000`.
 
+## Relevant Links
+Devpost: https://devpost.com/software/amnet<br>
+Demo Video: https://youtu.be/QYSrFG4iinA
